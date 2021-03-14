@@ -1,0 +1,96 @@
+
+Cesar Omar Galan Marroquin 00370819
+
+
+>>> Pasos para subir archivos a un repositorio  de GitHub <<<
+
+
+1: Primero descargar Git 
+
+https://git-scm.com/
+
+
+(La version que descargue fue la Git-2.23.0-64-bit)
+
+
+
+2: Iniciar el CMD en windows, y dirigirse a la carpeta con los archivos que queramos subir
+
+con los comandos cd Desktop\Ejercicio labo1
+
+
+
+3: Cuando estemos dentro de la carpeta con los archivos que queremos subir 
+escribimos los siguientes comandos
+
+
+git init                 -------> Para inciar 
+
+
+
+git add .                 -------> para agregar los archivos 
+
+
+
+git config --local user.email "00370819@uca.edu.sv" 
+
+git config --local user.name "GitBis"                      --------> para identificarnos
+
+
+
+git commit -m "Primer commit"               ---------> comentar
+
+
+
+git remote add origin https://github.com/GitBis/-FP-_Labo01_-00370819-.git   -------------> la direccion del repositorio
+
+
+
+git add -A                ---------> en mi caso, fue para solucionar un error al ejecutar el comando siguiente para subir los archivos
+
+
+
+git push -u origin master            ----------> confirmacion para subir nuestros archivos
+
+
+
+
+
+
+***En caso de errores****
+
+
+Error 1:
+
+fatal: remote origin already exists. 
+
+Algo asi como que ya existe o que habiamos configurado ese repositorio antes, para cambiar de repositorio asi que escribimos el comando:
+
+
+
+git remote rm origin
+
+
+
+Significa más o menos lo que dice, el origen remoto ya existe, es decir. ya lo has configurado antes. 
+Puede escribir git remote -v para ver qué / dónde se configuran los controles remotos. 
+Si cometió un error antes de poder escribir git remote rm origin para borrarlo e intentar nuevamente
+
+
+
+Error 2:
+
+src refspec master does not match any
+error: failed to push some refs to 'https://github.com/GitBis/GitRepos.git'
+
+
+No estoy muy seguro por que se da, mas que por una advertencia de windows, probablemete seguridad de archivos
+
+Para solucionarlo basta con escribir:
+
+git add -A
+
+
+
+
+
