@@ -1,0 +1,72 @@
+<<<<<  COMANDOS UTILIZADOS PARA SUBIR A REPOSITORIO REMOTO CON RAMAS PARA ASEGURAR QUE EL CODIGO ESTE BIEN ANTES DE MODIFICAR EL ORGINAL >>>>>>
+
+
+git init
+
+
+git clone https://github.com/Miranda00/NamelessCats_POO012021.git
+
+
+
+git checkout master
+
+
+
+git status
+
+
+
+
+git checkout -b branch01
+//Crear una rama
+
+
+
+git config --local user.email "00370819@uca.edu.sv"
+
+
+
+git config --local user.name "GitBis"
+
+
+
+git branch
+//* branch01
+    branch02
+    main
+todas las ramas locales
+
+
+git checkout branch01
+//Already on 'branch01'
+//Escogemos la rama para subir archivos en el repositorio compartido
+
+
+
+git status
+//On branch branch01
+//nothing to commit, working tree clean
+//Para saber si hay alguna modificacion en el archivo que queremos subir
+
+
+$ git add .
+
+
+
+git commit -m "Modify: Program.cs, now is a multiplication"
+
+
+
+git push origin branch01
+
+
+
+--------------------------------------------------
+
+                   Tutorials
+
+
+https://www.youtube.com/watch?v=7IsEjfiwqaU&t=145s
+
+
+https://www.youtube.com/watch?v=oVIhDp6qrj8&t=1473s
