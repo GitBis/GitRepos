@@ -1,0 +1,16 @@
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\bin\Debug\net5.0\Lab01.exe
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\bin\Debug\net5.0\Lab01.deps.json
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.json
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\bin\Debug\net5.0\Lab01.runtimeconfig.dev.json
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\bin\Debug\net5.0\Lab01.dll
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\bin\Debug\net5.0\ref\Lab01.dll
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\bin\Debug\net5.0\Lab01.pdb
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\obj\Debug\net5.0\Lab01.csprojAssemblyReference.cache
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\obj\Debug\net5.0\Lab01.GeneratedMSBuildEditorConfig.editorconfig
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfoInputs.cache
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\obj\Debug\net5.0\Lab01.AssemblyInfo.cs
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\obj\Debug\net5.0\Lab01.csproj.CoreCompileInputs.cache
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\obj\Debug\net5.0\Lab01.dll
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\obj\Debug\net5.0\ref\Lab01.dll
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\obj\Debug\net5.0\Lab01.pdb
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\Lab01\obj\Debug\net5.0\Lab01.genruntimeconfig.cache

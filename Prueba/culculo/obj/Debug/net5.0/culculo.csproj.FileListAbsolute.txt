@@ -1,0 +1,16 @@
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\bin\Debug\net5.0\culculo.exe
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\bin\Debug\net5.0\culculo.deps.json
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\bin\Debug\net5.0\culculo.runtimeconfig.json
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\bin\Debug\net5.0\culculo.runtimeconfig.dev.json
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\bin\Debug\net5.0\culculo.dll
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\bin\Debug\net5.0\ref\culculo.dll
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\bin\Debug\net5.0\culculo.pdb
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\obj\Debug\net5.0\culculo.csprojAssemblyReference.cache
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\obj\Debug\net5.0\culculo.GeneratedMSBuildEditorConfig.editorconfig
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\obj\Debug\net5.0\culculo.AssemblyInfoInputs.cache
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\obj\Debug\net5.0\culculo.AssemblyInfo.cs
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\obj\Debug\net5.0\culculo.csproj.CoreCompileInputs.cache
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\obj\Debug\net5.0\culculo.dll
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\obj\Debug\net5.0\ref\culculo.dll
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\obj\Debug\net5.0\culculo.pdb
+D:\CESAR\UCA\CICLO 1 2021\POO\Prueba\culculo\obj\Debug\net5.0\culculo.genruntimeconfig.cache
